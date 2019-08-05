@@ -1,0 +1,2 @@
+因为elasticsearch的更新太快，spring-data-elasticsearch的更新始终跟不上节奏，并且很多人的项目有使用最新的elasticsearch的需求，
+我当时也也是有这个需求，所以用了半天的时间把这东西弄得可以连接到elasticsearch7.0版本。留给有相同需求的有缘人。
